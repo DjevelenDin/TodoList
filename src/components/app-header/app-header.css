@@ -1,0 +1,14 @@
+.app-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 20px 0px;
+    font-size: 10px;
+}
+.app-header-small{
+    font-size: 26px;
+    color: gray;
+}
+.app-header-heading{
+    font-size: 56px;
+}

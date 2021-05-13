@@ -1,0 +1,16 @@
+.todo-list-item-label{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 5px;
+}
+.todo-list-item-button{
+    margin: 0px 5px;
+    padding: 7px 15px;
+}
+.done{
+    text-decoration: line-through;
+}
+.important{
+    font-weight: bold;
+    color: steelblue;
+}

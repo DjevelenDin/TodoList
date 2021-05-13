@@ -1,0 +1,14 @@
+.item-add{
+    width: 89%;
+    border-radius: 5px;
+    border: 1px solid #DFDFDF;
+    font-size: 20px;
+    padding: 7px;
+}
+.item-add-form{
+    display: flex;
+    justify-content: space-between;
+}
+.item-add-button{
+    margin: 0px 5px;
+}
